@@ -9,12 +9,12 @@ Bienvenue sur mon repository GitHub dédié à ma candidature à l'incubateur fo
 ## Aperçu
 
 "Shoot!" est une application mobile Android/iOS et un site web conçus pour offrir une expérience interactive aux utilisateurs en mettant en relation des amateurs de photographie, des photographes professionnels, et des lieux propices à la photographie. L'application peut élargir ses fonctionnalités pour inclure les services vidéo que les photographes peuvent offrir.
-Ce projet a déjà reçu l'approbation de mon école en tant que projet de fin d'études (PFE) de 5ème année, je suis donc à présent actuellement en groupe avec les camarades suivants:
-ARIARATNAM Ramanna 
-BENAKOUCHE Hakim
-DEBOUA Fred
-JANNAT Anas
-NECER Sofiane
+Ce projet a déjà reçu l'approbation de mon école en tant que projet de fin d'études (PFE) de 5ème année, je suis donc à présent actuellement en groupe avec les camarades suivants:<br>
+ARIARATNAM Ramanna<br>
+BENAKOUCHE Hakim<br>
+DEBOUA Fred<br>
+JANNAT Anas<br>
+NECER Sofiane<br>
 
 Le contenu à suivre a été créé par moi-même avant le début de la période de notre PFE.
 ## Contenu

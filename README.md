@@ -1,10 +1,10 @@
-# Présentation de ma candidature - Incubateur La Fabrik
+# Présentation de ma candidature - Incubateur la Fabrik
 
 <img src="https://bqomuhjgoihubwcaojgb.supabase.co/storage/v1/object/public/avatars/sacko_julien.jpg" width="200" alt="photo de moi">
 
 
 
-Bienvenue sur mon repository GitHub dédié à ma candidature à l'incubateur for good Omnes Education: La Fabrik. Je suis actuellement étudiant en 5ème année d'études en ingénierie informatique en alternance, et je candidate avec mon projet "Shoot!".
+Bienvenue sur mon repository GitHub dédié à ma candidature à l'incubateur for good Omnes Education: la Fabrik. Je suis actuellement étudiant en 5ème année d'études en ingénierie informatique en alternance, et je candidate avec mon projet "Shoot!".
 
 ## Aperçu
 
